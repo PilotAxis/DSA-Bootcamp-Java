@@ -32,26 +32,26 @@ all.✅
 26. Addition Of Two Numbers✅
 
 ### Intermediate Java Programs
-1. Factorial Program In Java
-2. Calculate Electricity Bill
-3. Calculate Average Of N Numbers
-4. Calculate Discount Of Product
-5. Calculate Distance Between Two Points 
-6. Calculate Commission Percentage
-7. Power In Java
-8. Calculate Depreciation of Value
-9. Calculate Batting Average
-10. Calculate CGPA Java Program
-11. Compound Interest Java Program
-12. Calculate Average Marks
-13. Sum Of N Numbers
-14. Armstrong Number In Java
+1. Factorial Program In Java -done
+2. Calculate Electricity Bill -done
+3. Calculate Average Of N Numbers -done
+4. Calculate Discount Of Product -done
+5. Calculate Distance Between Two Points -done
+6. Calculate Commission Percentage -done
+7. Power In Java -done
+8. Calculate Depreciation of Value -done
+9. Calculate Batting Average -done
+10. Calculate CGPA Java Program -done
+11. Compound Interest Java Program -done
+12. Calculate Average Marks -done
+13. Sum Of N Numbers -done
+14. Armstrong Number In Java -done
 15. Find Ncr & Npr
-16. Reverse A String In Java
-17. Find if a number is palindrome or not 
-18. Future Investment Value
-19. HCF Of Two Numbers Program
-20. LCM Of Two Numbers
+16. Reverse A String In Java -done
+17. Find if a number is palindrome or not -done
+18. Future Investment Value -done
+19. HCF Of Two Numbers Program -done
+20. LCM Of Two Numbers -done
 21. Java Program Vowel Or Consonant 
 22. Perfect Number In Java
 23. Check Leap Year Or Not
